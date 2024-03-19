@@ -5,7 +5,6 @@ export const Layout = ({ children }: { children: ReactNode }) => (
   <Box
     sx={{
       width: '100vw',
-      height: '100vh',
       flexGrow: 1,
       overflowY: 'scroll',
       boxSizing: 'border-box',
